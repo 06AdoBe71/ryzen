@@ -1,0 +1,23 @@
+{  
+  "name": "ryzen",
+  "version": "0.0.1",
+  "description": "Team of RyZeN",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "AdoBe",
+  "license": "ISC",
+  "dependencies": {
+    "cat-names": "^3.0.0",
+    "chalk": "^2.3.0",
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "discordjs-advanced": "^2.0.5",
+    "jimp": "^0.13.0",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^1.3.0",
+    "ms": "^2.0.0"
+  }
+}
